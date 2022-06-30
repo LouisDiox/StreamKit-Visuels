@@ -6,7 +6,7 @@ Retrouvez ici différents codes CSS pour l'overlay "Voice Widget" de StreamKit
 - Rendez vous sur le site [streamKit] et cliquez sur le bouton **Install for OBS** <br />
 - Cliquez sur l'onglet **Voice Widget** <br />
 - Sélectionnez le serveur et le salon vocal (Voice Channel) sur lequel vous souhaitez utiliser l'overlay <br />
-- Désactivez les options **Small Avatars" et **Hide Names** (Pour l'option **Show Speaking Users Only** vous êtes libre de décider) <br />
+- Désactivez les options **Small Avatars** et **Hide Names** (Pour l'option **Show Speaking Users Only** vous êtes libre de décider) <br />
 - Laissez toutes les autres options par défaut <br />
 - Copiez le lien du widget et collez le dans une source navigateur OBS<br />
 - Précisez la résolution que vous souhaitez (minimum 600x400, en dessous il ya des riques pour que le visuel n'ait pas l'effet souhaité) <br />
