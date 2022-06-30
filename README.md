@@ -10,7 +10,7 @@ Retrouvez ici différents codes CSS pour l'overlay "Voice Widget" de StreamKit
 - Laissez toutes les autres options par défaut <br />
 - Copiez le lien du widget et collez le dans une source navigateur OBS<br />
 - Précisez la résolution que vous souhaitez (minimum 600x400, en dessous il ya des riques pour que le visuel n'ait pas l'effet souhaité) <br />
-- Dans la  partie **CSS personnalisé**, collez le contenu du fichier custom-visuel.css de votre choix <br />
+- Dans la  partie **CSS personnalisé**, collez le contenu du fichier visuel-custom.css de votre choix <br />
 - Cliquez sur OK
 - Bon stream ! 👍
 
