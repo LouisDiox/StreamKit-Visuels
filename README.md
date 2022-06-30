@@ -14,7 +14,7 @@ Retrouvez ici différents codes CSS pour l'overlay "Voice Widget" de StreamKit
 - Cliquez sur OK
 - Bon stream ! 👍
 
-Si vous remarquez des bugs où si vous rencontrez des difficultés lors de l'installation, vous pouvez me contacter à cette adresse <a href="mailto:contact@louisdiox.fr">mail</a> où me contacter sur mon <a href="[twitter]">twitter</a>
+Si vous remarquez des bugs où si vous rencontrez des difficultés lors de l'installation, vous pouvez me contacter à cette adresse <a href="mailto:contact@louisdiox.fr">mail</a> où me contacter sur mon <a href=[twitter]>twitter</a>
 
 ### Mes réseaux
 [<img align="left" alt="twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
