@@ -1,6 +1,6 @@
 # Visuels pour l'overlay "Voice Widget" StreamKit
 Retrouvez ici différents codes CSS pour l'overlay "Voice Widget" de StreamKit <br />
-*Note : Chaque code est accompagné d'une prévisualisation, n'hésitez pas à naviguer dans les dossiers pour trouver celui qui vous pconviendra le plus*
+*Note : Chaque code est accompagné d'une prévisualisation, n'hésitez pas à naviguer dans les dossiers pour trouver celui qui vous vous conviendra le plus*
 
 ## Installation :
 
