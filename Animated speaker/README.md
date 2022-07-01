@@ -7,12 +7,14 @@
 :eyes: - **Aperçus** <br /><br />
 ![ezgif-2-54f4a57b3e](https://user-images.githubusercontent.com/72102780/176675257-91cbb6d7-dc2b-4cc2-83d7-278062324d61.gif)
 
+-----------------------------------
+
 :memo: Dans chaque fichier css, vous trouverez différentes options personnalisables présentées sous cette forme :
 ```css
 
 :root{
-    --colorSpeak: #8bbf5e;
-    --colorBase: #000000;
+    --colorSpeak: rgba(139, 191, 94, 1);
+    --colorBase: rgba(0, 0, 0, 1);
     --shake: infinite;
     --shakeSpeed: 3s;
     --shakeDelay: 0.5s;
@@ -21,6 +23,7 @@
 }
 
 ```
+*Pour trouver le code couleur que vous souhaitez, rendez vous sur [rgbacolorpicker]*
 
 **colorSpeak :** *\<Couleur>*
 > Définit la couleur de la bordure lorsqu'un utilisateur parle.
@@ -53,3 +56,5 @@
 
 **borderWidth :** *\<Taille en pixel>*
 > Définit la largeur de la bordure (exemple: 2px, 6px, 8px).
+
+[rgbacolorpicker]: https://rgbacolorpicker.com/
