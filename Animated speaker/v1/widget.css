@@ -15,13 +15,14 @@ Name: Animated speaker
     --pseudoColor: rgba(255,255,255,1);
     --borderWidth: 3px;
     --textSize: 100%;
+    --spaceBetween: 50px;
 }
    
 .voice-container > ul.voice-states {
     display: flex!important;
     justify-content: center!important;
     align-items: center!important;
-    gap: 50px!important;
+    gap: var(--spaceBetween)!important;
     margin-top: 50px!important;
 }
 
