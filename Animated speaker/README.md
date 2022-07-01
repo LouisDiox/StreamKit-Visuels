@@ -21,7 +21,7 @@
     --borderWidth: 4px;
     --pseudoBgColor: rgba(0,0,0,0.7);
     --pseudoColor: rgba(255,255,255,1);
-    --pseudoSize: 97%;
+    --pseudoSize: 100%;
 }
 
 ```
