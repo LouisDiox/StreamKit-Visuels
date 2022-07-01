@@ -12,6 +12,7 @@ Name: Animated speaker
     --shakeSpeed: 3s;
     --shakeDelay: 0.5s;
     --pseudoBgColor: rgba(0,0,0,0.7);
+    --borderWidth: 4px;
 }
    
 .voice-container > ul.voice-states {
@@ -38,14 +39,14 @@ img.avatar{
     border-radius: 50vw!important;
     height: 120px!important;
     width: 120px!important;
-    outline: solid 3px var(--colorBase)!important;
+    outline: solid var(--borderWidth) var(--colorBase)!important;
     border: none!important;
     position: relative!important;
     transition: all 0.2s ease!important;
 }
 
 img.avatar.speaking {
-    outline: solid 3px var(--colorSpeak)!important;
+    outline: solid var(--borderWidth) var(--colorSpeak)!important;
     transition: all 0.2s ease!important;
     animation: shake var(--shakeSpeed) var(--shakeDelay) linear var(--shake) alternate;
 }
@@ -95,7 +96,7 @@ li.voice-state > img.avatar.speaking + .user{
     text-overflow: ellipsis!important;
     white-space: nowrap!important;
     padding: 6px 10px 0px 10px!important;
-    transform: translateY(45px);
+    transform: translateY(55px);
     font-size: 97%!important;
     border-radius: 15px!important;
 }
