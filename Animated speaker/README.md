@@ -69,6 +69,4 @@ Original            |  Variation
 **spaceBetween :** *\<Taille en px>*
 > Définit l'espace séparant chaque utilisateur
 
-## Pour aller plus loin :
-
 [rgbacolorpicker]: https://rgbacolorpicker.com/
