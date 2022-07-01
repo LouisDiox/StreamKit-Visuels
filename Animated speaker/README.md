@@ -19,6 +19,7 @@
     --shakeSpeed: 3s;
     --shakeDelay: 0.5s;
     --pseudoBgColor: rgba(0,0,0,0.7);
+    --pseudoColor: rgba(255,255,255,1);
     --borderWidth: 4px;
 }
 
