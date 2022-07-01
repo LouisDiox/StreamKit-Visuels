@@ -35,7 +35,7 @@ li.voice-state{
 img.avatar{
     margin: 0!important;
     padding: 0!important;
-    border-radius: 10px!important;
+    border-radius: 50vw!important;
     height: 120px!important;
     width: 120px!important;
     outline: solid 3px var(--colorBase)!important;
@@ -70,10 +70,10 @@ li.voice-state > img.avatar.speaking + .user{
 .user::before{
     content: ""!important;
     position: absolute!important;
-    top: -185%!important;
-    right: -15%!important;
-    width: 50px!important;
-    height: 50px!important;
+    top: -165%!important;
+    right: -10%!important;
+    width: 55px!important;
+    height: 55px!important;
     background-image: url("https://assets.juicystream.tv/gifs/volume.gif")!important;
     background-position: center center!important;
     background-repeat: no-repeat!important;
@@ -95,10 +95,9 @@ li.voice-state > img.avatar.speaking + .user{
     text-overflow: ellipsis!important;
     white-space: nowrap!important;
     padding: 6px 10px 0px 10px!important;
-    font-size: 100%!important;
-    border-radius: 0px!important;
-    border-bottom-right-radius: 10px!important;
-    border-bottom-left-radius: 10px!important;
+    transform: translateY(45px);
+    font-size: 97%!important;
+    border-radius: 15px!important;
 }
 
 @keyframes volumeSpin {
