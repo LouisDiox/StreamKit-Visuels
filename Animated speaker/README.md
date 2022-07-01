@@ -57,4 +57,4 @@
 **borderWidth :** *\<Taille en pixel>*
 > Définit la largeur de la bordure (exemple: 2px, 6px, 8px).
 
-[rgbacolorpicker] : https://rgbacolorpicker.com/
+[rgbacolorpicker]: https://rgbacolorpicker.com/
