@@ -4,7 +4,7 @@ Author: Louis_diox
 Name: Animated speaker
 */
 
-/* Options configurables */
+/* Options configurables ( se référer à la documentation du widget) */
 :root{
     --colorSpeak: #8bbf5e;
     --colorBase: #000000;
