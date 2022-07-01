@@ -63,7 +63,7 @@
 **pseudoSize :** *\<Taille en %>*
 > Définit la taille du pseudo
 
-**pseudoSize :** *\<Taille en px>*
+**spaceBetween :** *\<Taille en px>*
 > Définit l'espace séparant chaque utilisateur
 
 [rgbacolorpicker]: https://rgbacolorpicker.com/
