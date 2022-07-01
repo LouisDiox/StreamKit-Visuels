@@ -22,6 +22,7 @@
     --pseudoBgColor: rgba(0,0,0,0.7);
     --pseudoColor: rgba(255,255,255,1);
     --pseudoSize: 100%;
+    --spaceBetween: 50px;
 }
 
 ```
@@ -61,5 +62,8 @@
 
 **pseudoSize :** *\<Taille en %>*
 > Définit la taille du pseudo
+
+**pseudoSize :** *\<Taille en px>*
+> Définit l'espace séparant chaque utilisateur
 
 [rgbacolorpicker]: https://rgbacolorpicker.com/
