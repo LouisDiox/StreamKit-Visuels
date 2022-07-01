@@ -4,7 +4,7 @@
 :speech_balloon: - **Le code peut être ammené à changer avec le temps ! (Correction de bugs, ajouts visuels etc). Pensez à consulter régulièrement le github pour voir si une nouvelle version a été mise en ligne.** <br />
 *Note: Les anciennes versions d'un projet restent archivées. Si une version plus récente implémente des fonctionnalités qui ne vous plaisent pas, vous êtes libre d'utiliser une version antérieur.*
 
-:eyes: - **Aperçus** <br /><br />
+:eyes: - **Aperçus :** <br /><br />
 ![ezgif-2-54f4a57b3e](https://user-images.githubusercontent.com/72102780/176675257-91cbb6d7-dc2b-4cc2-83d7-278062324d61.gif)
 
 -----------------------------------
