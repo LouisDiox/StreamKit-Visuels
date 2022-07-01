@@ -13,14 +13,15 @@
 ```css
 
 :root{
-    --colorSpeak: rgba(139, 191, 94, 1);
-    --colorBase: rgba(0, 0, 0, 1);
+    --colorSpeak: #8bbf5e;
+    --colorBase: #000000;
     --shake: infinite;
     --shakeSpeed: 3s;
     --shakeDelay: 0.5s;
+    --borderWidth: 4px;
     --pseudoBgColor: rgba(0,0,0,0.7);
     --pseudoColor: rgba(255,255,255,1);
-    --borderWidth: 4px;
+    --pseudoSize: 97%;
 }
 
 ```
@@ -49,13 +50,16 @@
 > • 0s → Aucun délai d'activation <br />
 > • 0.5s → L'utilisateur doit parler pendant au moins 500 millisecondes avant l'activation de l'effet.
 
+**borderWidth :** *\<Taille en pixel>*
+> Définit la largeur de la bordure (exemple: 2px, 6px, 8px).
+
 **pseudoBgColor :** *\<Couleur>*
 > Définit la couleur de fond du pseudo
 
 **pseudoColor :** *\<Couleur>*
 > Définit la couleur du pseudo
 
-**borderWidth :** *\<Taille en pixel>*
-> Définit la largeur de la bordure (exemple: 2px, 6px, 8px).
+**pseudoSize :** *\<Taille en %>*
+> Définit la taille du pseudo
 
 [rgbacolorpicker]: https://rgbacolorpicker.com/
