@@ -81,7 +81,6 @@ li.voice-state > img.avatar.speaking + .user::before{
     background-color: var(--colorSpeak)!important;
     border-radius: 50vw!important;
     transform-origin: center center!important;
-    animation: volumeSpin 1.5s ease-in-out alternate infinite!important;
     opacity: 0!important;
     transition: 0.2s ease; 
 }
@@ -100,16 +99,6 @@ li.voice-state > img.avatar.speaking + .user::before{
     font-size: var(--textSize)!important;
     border-radius: 15px!important;
 }
-
-@keyframes volumeSpin {
-    from {
-        transform: rotate(-8deg)
-    }
-    to {
-        transform: rotate(8deg)
-    }
-}
-
 
 @keyframes shake {
     0% { transform: translate(0px, 0px) rotate(0deg); }
