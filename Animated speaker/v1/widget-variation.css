@@ -12,6 +12,7 @@ Name: Animated speaker
     --shakeSpeed: 3s;
     --shakeDelay: 0.5s;
     --pseudoBgColor: rgba(0,0,0,0.7);
+    --pseudoColor: rgba(255,255,255,1);
     --borderWidth: 4px;
 }
    
@@ -89,6 +90,7 @@ li.voice-state > img.avatar.speaking + .user{
 
 .user .name {
     background-color: var(--pseudoBgColor)!important;
+    color: var(--pseudoColor)!important;
     display: block!important;
     width: 100px!important;
     height: 25px!important;
