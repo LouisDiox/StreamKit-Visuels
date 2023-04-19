@@ -18,7 +18,7 @@ Name: Animated speaker
     --spaceBetween: 50px;
 }
    
-.voice-container > ul.voice-states {
+.Voice_voiceContainer__adk9M > ul.Voice_voiceStates__a121W {
     display: flex!important;
     justify-content: center!important;
     align-items: center!important;
@@ -26,7 +26,7 @@ Name: Animated speaker
     margin-top: 50px!important;
 }
 
-li.voice-state{
+li.Voice_voiceState__OCoZh{
     display: flex!important;
     flex-direction: column!important;
     justify-content: center!important;
@@ -36,7 +36,7 @@ li.voice-state{
     height: 126px!important;
 }
 
-img.avatar{
+img.Voice_avatar__htiqH{
     margin: 0!important;
     padding: 0!important;
     border-radius: 10px!important;
@@ -48,13 +48,13 @@ img.avatar{
     transition: all 0.2s ease!important;
 }
 
-img.avatar.speaking {
+img.Voice_avatar__htiqH.Voice_avatarSpeaking__lE\+4m {
     outline: solid var(--borderWidth) var(--colorSpeak)!important;
     transition: all 0.2s ease!important;
     animation: shake var(--shakeSpeed) var(--shakeDelay) linear var(--shake) alternate;
 }
 
-.user {
+.Voice_user__8fGwX {
     position: absolute!important;
     bottom: 3px!important;
     left: 3px!important;
@@ -62,23 +62,23 @@ img.avatar.speaking {
     transform-origin: center -11px;
 }
 
-li.voice-state > img.avatar.speaking + .user::before{
+li.Voice_voiceState__OCoZh > img.Voice_avatar__htiqH.Voice_avatarSpeaking__lE\+4m + .Voice_user__8fGwX::before{
     opacity: 1!important;
     transition: 0.2s ease; 
 }
 
-li.voice-state > img.avatar.speaking + .user{
+li.Voice_voiceState__OCoZh > img.Voice_avatar__htiqH.Voice_avatarSpeaking__lE\+4m + .Voice_user__8fGwX{
     animation: shake var(--shakeSpeed) var(--shakeDelay) linear var(--shake) alternate;
 }
 
-.user::before{
-    content: ""!important;
+.Voice_user__8fGwX::before{
+	content: ""!important;
     position: absolute!important;
     top: -185%!important;
     right: -15%!important;
     width: 50px!important;
     height: 50px!important;
-    background-image: url("https://assets.juicystream.tv/gifs/volume.gif")!important;
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGM3NzNjNDIzNTc0M2YwZTIzMTNlMzc0ZWNhMDI2NTE2MDk5NzA1MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/vet3qE4fsmsHPukyfk/giphy.gif")!important;
     background-position: center center!important;
     background-repeat: no-repeat!important;
     background-size: 60%!important;
@@ -90,7 +90,7 @@ li.voice-state > img.avatar.speaking + .user{
     transition: 0.2s ease; 
 }
 
-.user .name {
+.Voice_user__8fGwX .Voice_name__TALd9 {
     color: var(--pseudoColor)!important;
     background-color: var(--pseudoBgColor)!important;
     display: block!important;
